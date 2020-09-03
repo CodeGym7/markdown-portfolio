@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# CodeGym7's first line
+## This is second line
+### This is third line
+###### This is 6th line
